@@ -187,25 +187,18 @@ The strongest open-source implementations therefore tend to be **composable syst
 
 
 
-| Project                                                                                                 | License     | Description                                                                                                               |
-
-| ------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | MIT         | Go email verification library with syntax, DNS, MX, SMTP, catch-all, disposable and role checks                           |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | MIT         | Comprehensive TypeScript email verification and enrichment library with DNS/SMTP, disposable, role and provider detection |
-
-| [Email Verifier](https://github.com/yolodex-ai/email-verifier)                                          | MIT         | Node.js verifier using syntax, DNS, MX, SMTP probing, catch-all and provider detection                                    |
-
-| [Python Email Validator](https://github.com/JoshData/python-email-validator)                            | Unlicense   | Robust Python email syntax and deliverability validation library                                                          |
-
-| [Email Validator](https://github.com/sagnik11/email-checker)                                            | Open Source | TypeScript validator with syntax, DNS, SMTP, disposable and B2C detection                                                 |
-
-| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier)                           | MIT         | Lightweight Python email verifier using syntax, MX and SMTP validation                                                    |
-
-| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool)                    | Open Source | Local CSV email verification application using MX, SMTP and syntax checks                                                 |
-
-| [email-verifier](https://github.com/AfterShip/email-verifier)                                           | MIT         | Go-based email verification library and self-hosted API reference                                                         |
+| Project | License | Description |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) [![Stars](https://img.shields.io/github/stars/reacherhq/check-if-email-exists?style=social&color=white)](https://github.com/reacherhq/check-if-email-exists/stargazers) | AGPL-3.0 | High-performance Rust email verification library, CLI, and HTTP backend with syntax, MX, and SMTP probing |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | MIT | Go email verification library with syntax, DNS, MX, SMTP, catch-all, disposable and role checks |
+| [Python Email Validator](https://github.com/JoshData/python-email-validator) [![Stars](https://img.shields.io/github/stars/JoshData/python-email-validator?style=social&color=white)](https://github.com/JoshData/python-email-validator/stargazers) | Unlicense | Robust Python email syntax and deliverability validation library |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | MIT | Configurable framework-agnostic Ruby email verification engine with Regex, MX, DNS, and SMTP validation |
+| [checkmail](https://github.com/badoux/checkmail) [![Stars](https://img.shields.io/github/stars/badoux/checkmail?style=social&color=white)](https://github.com/badoux/checkmail/stargazers) | MIT | Zero-dependency Go package for format validation, MX server lookup, and live SMTP probing |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | MIT | Comprehensive TypeScript email verification and enrichment library with DNS/SMTP, disposable, role and provider detection |
+| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier) [![Stars](https://img.shields.io/github/stars/unlimitedverifier/free-email-verifier?style=social&color=white)](https://github.com/unlimitedverifier/free-email-verifier/stargazers) | MIT | Lightweight Python email verifier using syntax, MX and SMTP validation |
+| [Email Verifier](https://github.com/yolodex-ai/email-verifier) [![Stars](https://img.shields.io/github/stars/yolodex-ai/email-verifier?style=social&color=white)](https://github.com/yolodex-ai/email-verifier/stargazers) | MIT | Node.js verifier using syntax, DNS, MX, SMTP probing, catch-all and provider detection |
+| [Email Validator](https://github.com/sagnik11/email-checker) [![Stars](https://img.shields.io/github/stars/sagnik11/email-checker?style=social&color=white)](https://github.com/sagnik11/email-checker/stargazers) | Open Source | TypeScript validator with syntax, DNS, SMTP, disposable and B2C detection |
+| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool) [![Stars](https://img.shields.io/github/stars/SyedSamrozeAli/Email-Verification-Tool?style=social&color=white)](https://github.com/SyedSamrozeAli/Email-Verification-Tool/stargazers) | Open Source | Local CSV email verification application using MX, SMTP and syntax checks |
 
 
 
@@ -221,23 +214,15 @@ DNS/MX verification determines whether a domain is configured to receive email.
 
 
 
-| Project                                                                 | Language | Description                                                    |
-
-| ----------------------------------------------------------------------- | -------- | -------------------------------------------------------------- |
-
-| [dnspython](https://github.com/rthalley/dnspython)                      | Python   | DNS toolkit supporting MX, A, AAAA, TXT and other record types |
-
-| [miekg/dns](https://github.com/miekg/dns)                               | Go       | Full-featured DNS library                                      |
-
-| [Trust-DNS / Hickory DNS](https://github.com/hickory-dns/hickory-dns)   | Rust     | DNS client and server implementation                           |
-
-| [c-ares](https://github.com/c-ares/c-ares)                              | C        | Asynchronous DNS resolution library                            |
-
-| [getdns](https://getdnsapi.net/)                                        | C        | Modern DNS API and resolver library                            |
-
-| [Email Validator](https://github.com/JoshData/python-email-validator)   | Python   | Performs optional DNS MX validation                            |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) | Go       | Includes MX and DNS validation                                 |
+| Project | Language | Description |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------- |
+| [miekg/dns](https://github.com/miekg/dns) [![Stars](https://img.shields.io/github/stars/miekg/dns?style=social&color=white)](https://github.com/miekg/dns/stargazers) | Go | Full-featured, high-performance DNS library in Go |
+| [Hickory DNS](https://github.com/hickory-dns/hickory-dns) [![Stars](https://img.shields.io/github/stars/hickory-dns/hickory-dns?style=social&color=white)](https://github.com/hickory-dns/hickory-dns/stargazers) | Rust | Modern Rust DNS client, resolver, and server implementation (formerly Trust-DNS) |
+| [dnspython](https://github.com/rthalley/dnspython) [![Stars](https://img.shields.io/github/stars/rthalley/dnspython?style=social&color=white)](https://github.com/rthalley/dnspython/stargazers) | Python | Comprehensive DNS toolkit supporting MX, A, AAAA, TXT and other record types |
+| [c-ares](https://github.com/c-ares/c-ares) [![Stars](https://img.shields.io/github/stars/c-ares/c-ares?style=social&color=white)](https://github.com/c-ares/c-ares/stargazers) | C | Asynchronous DNS resolution and name resolution library |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | Go | Includes robust MX record lookup and domain DNS validation |
+| [Python Email Validator](https://github.com/JoshData/python-email-validator) [![Stars](https://img.shields.io/github/stars/JoshData/python-email-validator?style=social&color=white)](https://github.com/JoshData/python-email-validator/stargazers) | Python | Performs deliverability and domain DNS MX record validation |
+| [getdns](https://github.com/getdnsapi/getdns) [![Stars](https://img.shields.io/github/stars/getdnsapi/getdns?style=social&color=white)](https://github.com/getdnsapi/getdns/stargazers) | C | Modern asynchronous DNS API and resolver library |
 
 
 
@@ -303,21 +288,17 @@ SMTP verification attempts to determine whether a receiving mail server will acc
 
 
 
-| Project                                                                                                 | Language   | Description                                              |
-
-| ------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------- |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | Go         | SMTP verification with catch-all detection               |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | TypeScript | SMTP probing with greylisting and mailbox-state handling |
-
-| [Email Verifier](https://github.com/yolodex-ai/email-verifier)                                          | Node.js    | SMTP RCPT probing and catch-all detection                |
-
-| [Email Validator](https://github.com/sagnik11/email-checker)                                            | TypeScript | Live SMTP handshakes                                     |
-
-| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier)                           | Python     | SMTP verification without sending an email               |
-
-| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool)                    | Python     | Bulk SMTP verification                                   |
+| Project | Language | Description |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------- |
+| [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) [![Stars](https://img.shields.io/github/stars/reacherhq/check-if-email-exists?style=social&color=white)](https://github.com/reacherhq/check-if-email-exists/stargazers) | Rust | High-performance asynchronous SMTP probing with MX routing and deliverability checks |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | Go | SMTP verification with catch-all detection |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | Ruby | Multi-layer SMTP handshake probing and host-level validation |
+| [checkmail](https://github.com/badoux/checkmail) [![Stars](https://img.shields.io/github/stars/badoux/checkmail?style=social&color=white)](https://github.com/badoux/checkmail/stargazers) | Go | Lightweight live SMTP handshake and RCPT probing |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | TypeScript | SMTP probing with greylisting and mailbox-state handling |
+| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier) [![Stars](https://img.shields.io/github/stars/unlimitedverifier/free-email-verifier?style=social&color=white)](https://github.com/unlimitedverifier/free-email-verifier/stargazers) | Python | SMTP verification without sending an email |
+| [Email Verifier](https://github.com/yolodex-ai/email-verifier) [![Stars](https://img.shields.io/github/stars/yolodex-ai/email-verifier?style=social&color=white)](https://github.com/yolodex-ai/email-verifier/stargazers) | Node.js | SMTP RCPT probing and catch-all detection |
+| [Email Validator](https://github.com/sagnik11/email-checker) [![Stars](https://img.shields.io/github/stars/sagnik11/email-checker?style=social&color=white)](https://github.com/sagnik11/email-checker/stargazers) | TypeScript | Live SMTP handshakes |
+| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool) [![Stars](https://img.shields.io/github/stars/SyedSamrozeAli/Email-Verification-Tool?style=social&color=white)](https://github.com/SyedSamrozeAli/Email-Verification-Tool/stargazers) | Python | Bulk SMTP verification |
 
 
 
@@ -385,25 +366,17 @@ Disposable/temporary email addresses are frequently used for short-lived registr
 
 
 
-| Project                                                                                             | License      | Description                                                           |
-
-| --------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------- |
-
-| [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)    | CC0-1.0      | Large community-maintained disposable email domain blocklist          |
-
-| [disposable](https://github.com/disposable/disposable)                                              | MIT          | Disposable/temporary email domain database with automated updates     |
-
-| [disposable-email-domains](https://github.com/disposable/disposable-email-domains)                  | MIT          | Daily-updated disposable-domain dataset                               |
-
-| [email-disposable](https://github.com/gtkppr/email-disposable)                                      | MIT          | Regularly updated disposable email domain list and JavaScript library |
-
-| [burner-email-providers](https://github.com/wesbos/burner-email-providers)                          | MIT          | List of burner/disposable email providers                             |
-
-| [fakefilter](https://github.com/7c/fakefilter)                                                      | BSD-3-Clause | Disposable email domain filtering                                     |
-
-| [Propaganistas Laravel Disposable Email](https://github.com/Propaganistas/Laravel-Disposable-Email) | MIT          | Disposable email validation for Laravel                               |
-
-| [Temporary Email Domain List](https://github.com/TempMailDetector/Temporary-Email-Domain-Blocklist) | Open Source  | Temporary/disposable email domain blocklist                           |
+| Project | License | Description |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------- |
+| [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) [![Stars](https://img.shields.io/github/stars/disposable-email-domains/disposable-email-domains?style=social&color=white)](https://github.com/disposable-email-domains/disposable-email-domains/stargazers) | CC0-1.0 | Large community-maintained disposable email domain blocklist |
+| [mailchecker](https://github.com/FGRibreau/mailchecker) [![Stars](https://img.shields.io/github/stars/FGRibreau/mailchecker?style=social&color=white)](https://github.com/FGRibreau/mailchecker/stargazers) | MIT | Cross-platform, multi-language temporary disposable email detection library |
+| [disposable](https://github.com/disposable/disposable) [![Stars](https://img.shields.io/github/stars/disposable/disposable?style=social&color=white)](https://github.com/disposable/disposable/stargazers) | MIT | Disposable and temporary email domain database with automated daily updates |
+| [burner-email-providers](https://github.com/wesbos/burner-email-providers) [![Stars](https://img.shields.io/github/stars/wesbos/burner-email-providers?style=social&color=white)](https://github.com/wesbos/burner-email-providers/stargazers) | MIT | Curated list of burner and disposable email providers |
+| [disposable-domains](https://github.com/disposable/disposable-email-domains) [![Stars](https://img.shields.io/github/stars/disposable/disposable-email-domains?style=social&color=white)](https://github.com/disposable/disposable-email-domains/stargazers) | MIT | Daily-updated disposable-domain dataset |
+| [Laravel Disposable Email](https://github.com/Propaganistas/Laravel-Disposable-Email) [![Stars](https://img.shields.io/github/stars/Propaganistas/Laravel-Disposable-Email?style=social&color=white)](https://github.com/Propaganistas/Laravel-Disposable-Email/stargazers) | MIT | Disposable email validation package for Laravel applications |
+| [fakefilter](https://github.com/7c/fakefilter) [![Stars](https://img.shields.io/github/stars/7c/fakefilter?style=social&color=white)](https://github.com/7c/fakefilter/stargazers) | BSD-3-Clause | Disposable email domain filtering dataset and checker |
+| [email-disposable](https://github.com/gtkppr/email-disposable) [![Stars](https://img.shields.io/github/stars/gtkppr/email-disposable?style=social&color=white)](https://github.com/gtkppr/email-disposable/stargazers) | MIT | Regularly updated disposable email domain list and JavaScript library |
+| [Temporary Email Domain List](https://github.com/TempMailDetector/Temporary-Email-Domain-Blocklist) [![Stars](https://img.shields.io/github/stars/TempMailDetector/Temporary-Email-Domain-Blocklist?style=social&color=white)](https://github.com/TempMailDetector/Temporary-Email-Domain-Blocklist/stargazers) | Open Source | Temporary and disposable email domain blocklist |
 
 
 
@@ -455,17 +428,12 @@ postmaster@
 
 
 
-| Project                                                                                                 | Description                                                 |
-
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | Detects role-based and no-reply addresses                   |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | Role-account detection                                      |
-
-| [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)        | Community email-domain data useful for validation pipelines |
-
-| [Verifly disposable-email-domains](https://github.com/james-sib/disposable-email-domains)               | Includes curated role-account local parts                   |
+| Project | Description |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) [![Stars](https://img.shields.io/github/stars/disposable-email-domains/disposable-email-domains?style=social&color=white)](https://github.com/disposable-email-domains/disposable-email-domains/stargazers) | Community email-domain dataset useful for validation pipelines |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | Role-account detection and common administrative mailbox filtering |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | Built-in role account and blacklisted address detection rules |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | Detects role-based and no-reply functional mailboxes |
 
 
 
@@ -481,19 +449,17 @@ Role detection does **not** mean an address is invalid. A `support@example.com` 
 
 
 
-| Project                                                                                                 | Language   | Description                                                   |
-
-| ------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
-
-| [email-validator](https://github.com/JoshData/python-email-validator)                                   | Python     | Robust syntax and domain validation                           |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | Go         | Syntax validation                                             |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | TypeScript | Syntax, Unicode and email structure validation                |
-
-| [email-addresses](https://github.com/andris9/mailparser)                                                | JavaScript | Email parsing ecosystem                                       |
-
-| [validator.js](https://github.com/validatorjs/validator.js)                                             | JavaScript | General-purpose validation library including email validation |
+| Project | Language | Description |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
+| [validator.js](https://github.com/validatorjs/validator.js) [![Stars](https://img.shields.io/github/stars/validatorjs/validator.js?style=social&color=white)](https://github.com/validatorjs/validator.js/stargazers) | JavaScript | Universal string validation and sanitization library including email format validation |
+| [mailcheck](https://github.com/mailcheck/mailcheck) [![Stars](https://img.shields.io/github/stars/mailcheck/mailcheck?style=social&color=white)](https://github.com/mailcheck/mailcheck/stargazers) | JavaScript | Popular library that suggests correct domains when users misspell email addresses |
+| [mailparser](https://github.com/andris9/mailparser) [![Stars](https://img.shields.io/github/stars/andris9/mailparser?style=social&color=white)](https://github.com/andris9/mailparser/stargazers) | JavaScript | Advanced email parsing ecosystem and RFC-compliant address parsing |
+| [flanker](https://github.com/mailgun/flanker) [![Stars](https://img.shields.io/github/stars/mailgun/flanker?style=social&color=white)](https://github.com/mailgun/flanker/stargazers) | Python | Mailgun's open-source Python email address parsing and syntax validation library |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | Go | RFC-compliant syntax and structure validation in Go |
+| [Python Email Validator](https://github.com/JoshData/python-email-validator) [![Stars](https://img.shields.io/github/stars/JoshData/python-email-validator?style=social&color=white)](https://github.com/JoshData/python-email-validator/stargazers) | Python | Robust Python syntax, internationalized domain (IDN), and RFC deliverability validation |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | Ruby | Configurable regex validation and syntax validator layer |
+| [checkmail](https://github.com/badoux/checkmail) [![Stars](https://img.shields.io/github/stars/badoux/checkmail?style=social&color=white)](https://github.com/badoux/checkmail/stargazers) | Go | Zero-dependency format and syntax validation |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | TypeScript | Syntax, Unicode and complex email structure validation |
 
 
 
@@ -547,19 +513,15 @@ Commercial services often combine verification with additional intelligence.
 
 
 
-| Project                                                                                                 | Description                                                                                   |
-
-| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | Provider classification, name parsing, typo suggestions, quality scoring and email attributes |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | Free-provider, disposable, role and reachability information                                  |
-
-| [disposable](https://github.com/disposable/disposable)                                                  | Disposable-provider intelligence                                                              |
-
-| [Mailchecker](https://github.com/FGRibreau/mailchecker)                                                 | Disposable email detection                                                                    |
-
-| [burner-email-providers](https://github.com/wesbos/burner-email-providers)                              | Burner email provider database                                                                |
+| Project | Description |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [mailcheck](https://github.com/mailcheck/mailcheck) [![Stars](https://img.shields.io/github/stars/mailcheck/mailcheck?style=social&color=white)](https://github.com/mailcheck/mailcheck/stargazers) | Intelligent domain typo detection and auto-correction suggestion engine |
+| [mailchecker](https://github.com/FGRibreau/mailchecker) [![Stars](https://img.shields.io/github/stars/FGRibreau/mailchecker?style=social&color=white)](https://github.com/FGRibreau/mailchecker/stargazers) | Cross-language disposable email detection with thousands of temporary provider domains |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | Free-provider, disposable, role, and MX reachability intelligence |
+| [disposable](https://github.com/disposable/disposable) [![Stars](https://img.shields.io/github/stars/disposable/disposable?style=social&color=white)](https://github.com/disposable/disposable/stargazers) | Automated disposable-provider domain intelligence dataset |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | Validation audit intelligence, custom whitelisting/blacklisting, and event logger |
+| [burner-email-providers](https://github.com/wesbos/burner-email-providers) [![Stars](https://img.shields.io/github/stars/wesbos/burner-email-providers?style=social&color=white)](https://github.com/wesbos/burner-email-providers/stargazers) | Curated burner and temporary email provider database |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | Provider classification, name parsing, typo suggestions, quality scoring and email attributes |
 
 
 
@@ -611,19 +573,15 @@ An open-source verification library can be wrapped in a REST API to create a sel
 
 
 
-| Project                                                                                                 | API Capability | Description                                        |
-
-| ------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------- |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | ✅              | Includes a simple self-hosted API server reference |
-
-| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier)                           | CLI / Library  | Lightweight self-hosted verification               |
-
-| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool)                    | Local App      | CSV-based verification interface                   |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | Library        | Can be embedded into a Node.js API                 |
-
-| [Email Verifier](https://github.com/yolodex-ai/email-verifier)                                          | Library / CLI  | Node.js verification engine                        |
+| Project | API Capability | Description |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------- |
+| [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) [![Stars](https://img.shields.io/github/stars/reacherhq/check-if-email-exists?style=social&color=white)](https://github.com/reacherhq/check-if-email-exists/stargazers) | ✅ REST API & CLI | Production-ready HTTP API with Docker support for full email verification |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | ✅ HTTP Server | Includes a simple self-hosted Go API server reference |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | ✅ Standalone API / Gem | Full-featured verification engine with standalone Truemail Server API support |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | Library / API Ready | Can be embedded into a Node.js, Express, or Fastify API |
+| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier) [![Stars](https://img.shields.io/github/stars/unlimitedverifier/free-email-verifier?style=social&color=white)](https://github.com/unlimitedverifier/free-email-verifier/stargazers) | CLI / Library | Lightweight self-hosted Python verification script |
+| [Email Verifier](https://github.com/yolodex-ai/email-verifier) [![Stars](https://img.shields.io/github/stars/yolodex-ai/email-verifier?style=social&color=white)](https://github.com/yolodex-ai/email-verifier/stargazers) | Library / CLI | Node.js verification engine and command-line tool |
+| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool) [![Stars](https://img.shields.io/github/stars/SyedSamrozeAli/Email-Verification-Tool?style=social&color=white)](https://github.com/SyedSamrozeAli/Email-Verification-Tool/stargazers) | Local App / CSV | CSV-based verification desktop/local interface |
 
 
 
@@ -693,19 +651,15 @@ Bulk verification is particularly useful for replacing ZeroBounce/NeverBounce-st
 
 
 
-| Project                                                                                                 | Capability                                      |
-
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-
-| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool)                    | CSV upload, live validation and result export   |
-
-| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier)                           | CLI-based verification                          |
-
-| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)                                 | Library/API suitable for custom bulk processing |
-
-| [Email Verifier](https://github.com/yolodex-ai/email-verifier)                                          | Multiple-email verification                     |
-
-| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) | Programmatic verification                       |
+| Project | Capability |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) [![Stars](https://img.shields.io/github/stars/reacherhq/check-if-email-exists?style=social&color=white)](https://github.com/reacherhq/check-if-email-exists/stargazers) | High-throughput asynchronous bulk verification via CLI & HTTP endpoint |
+| [AfterShip Email Verifier](https://github.com/AfterShip/email-verifier) [![Stars](https://img.shields.io/github/stars/AfterShip/email-verifier?style=social&color=white)](https://github.com/AfterShip/email-verifier/stargazers) | Library and API suitable for concurrent bulk batch processing |
+| [Truemail](https://github.com/truemail-rb/truemail) [![Stars](https://img.shields.io/github/stars/truemail-rb/truemail?style=social&color=white)](https://github.com/truemail-rb/truemail/stargazers) | Batch and thread-safe programmatic verification for enterprise lists |
+| [Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier) [![Stars](https://img.shields.io/github/stars/visulima/visulima?style=social&color=white)](https://github.com/visulima/visulima/stargazers) | Programmatic batch verification pipeline |
+| [UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier) [![Stars](https://img.shields.io/github/stars/unlimitedverifier/free-email-verifier?style=social&color=white)](https://github.com/unlimitedverifier/free-email-verifier/stargazers) | CLI-based bulk list verification |
+| [Email Verifier](https://github.com/yolodex-ai/email-verifier) [![Stars](https://img.shields.io/github/stars/yolodex-ai/email-verifier?style=social&color=white)](https://github.com/yolodex-ai/email-verifier/stargazers) | Multi-email array verification engine |
+| [Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool) [![Stars](https://img.shields.io/github/stars/SyedSamrozeAli/Email-Verification-Tool?style=social&color=white)](https://github.com/SyedSamrozeAli/Email-Verification-Tool/stargazers) | CSV file upload, live desktop validation, and result export |
 
 
 
@@ -1863,51 +1817,38 @@ mindmap
 
 | ------------------------ | :----: | :-: | :-: | :--: | :-------: | :--------: | :------: |
 
-| AfterShip Email Verifier |    ✅   |  ✅  |  ✅  |   ✅  |     ✅     |      ✅     |     ✅    |
-
-| Visulima Email Verifier  |    ✅   |  ✅  |  ✅  |   ✅  |     ✅     |      ✅     |     ✅    |
-
-| Python Email Validator   |    ✅   |  ✅  |  ✅  |   ❌  |     ❌     |      ❌     |     ❌    |
-
-| Email Verifier           |    ✅   |  ✅  |  ✅  |   ✅  |     ✅     |      ❌     | Provider |
-
-| UnlimitedVerifier        |    ✅   |  ✅  |  ✅  |   ✅  |     ❌     |      ❌     |     ❌    |
-
-| Email Verification Tool  |    ✅   |  ✅  |  ✅  |   ✅  |     ✅     |   Partial  |  Partial |
-
-| Disposable Email Domains |    ❌   |  ❌  |  ❌  |   ❌  |     ❌     |      ✅     |     ❌    |
-
-| Mailchecker              |    ❌   |  ❌  |  ❌  |   ❌  |     ❌     |      ✅     |     ❌    |
-
-
+| Technology | Syntax | DNS | MX | SMTP | Catch-All | Disposable | Role |
+| -------------------------------- | :----: | :-: | :-: | :--: | :-------: | :--------: | :------: |
+| check-if-email-exists (Reacher) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| AfterShip Email Verifier | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Truemail | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Visulima Email Verifier | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Python Email Validator | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Email Verifier (Node.js) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Provider |
+| UnlimitedVerifier | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Email Verification Tool | ✅ | ✅ | ✅ | ✅ | ✅ | Partial | Partial |
+| validator.js | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Disposable Email Domains | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
+| Mailchecker | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
 ---
 
-
-
 # 🏆 Recommended Projects by Use Case
 
-
-
-| Use Case                          | Recommended Project          |
-
+| Use Case | Recommended Project |
 | --------------------------------- | ---------------------------- |
-
-| Best general-purpose Go verifier  | **AfterShip Email Verifier** |
-
-| Comprehensive TypeScript verifier | **Visulima Email Verifier**  |
-
-| Python syntax + DNS validation    | **Python Email Validator**   |
-
-| Node.js SMTP verification         | **Email Verifier**           |
-
-| Disposable detection              | **disposable-email-domains** |
-
-| Disposable domain database        | **disposable**               |
-
-| Lightweight Python verification   | **UnlimitedVerifier**        |
-
-| CSV verification                  | **Email Verification Tool**  |
+| High-performance Rust verifier & self-hosted API | **[check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)** |
+| Best general-purpose Go verifier | **[AfterShip Email Verifier](https://github.com/AfterShip/email-verifier)** |
+| Full-featured Ruby verifier engine | **[Truemail](https://github.com/truemail-rb/truemail)** |
+| Comprehensive TypeScript verifier | **[Visulima Email Verifier](https://github.com/visulima/visulima/tree/main/packages/email/email-verifier)** |
+| Python syntax + DNS validation | **[Python Email Validator](https://github.com/JoshData/python-email-validator)** |
+| Node.js SMTP verification | **[Email Verifier](https://github.com/yolodex-ai/email-verifier)** |
+| JavaScript / TypeScript syntax validation | **[validator.js](https://github.com/validatorjs/validator.js)** |
+| Domain typo detection & correction | **[mailcheck](https://github.com/mailcheck/mailcheck)** |
+| Disposable detection | **[disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains)** |
+| Disposable domain database | **[disposable](https://github.com/disposable/disposable)** |
+| Lightweight Python verification | **[UnlimitedVerifier](https://github.com/unlimitedverifier/free-email-verifier)** |
+| CSV verification desktop app | **[Email Verification Tool](https://github.com/SyedSamrozeAli/Email-Verification-Tool)** |
 
 | DNS infrastructure                | **dnspython**                |
 
