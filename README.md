@@ -1,20 +1,30 @@
-# Awesome-Email-Verification-API
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Email-Verification-API">
+    <img src="assets/banner.svg" alt="Awesome Email Verification API Banner" width="100%" />
+  </a>
+</p>
 
-# ✉️ Top Email Verification APIs
+# ✉️ Awesome Email Verification API 🚀
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Email-Verification-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Verification-API?style=flat&color=yellow" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Email-Verification-API/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Email-Verification-API/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-> A curated list of **Email Verification APIs** and open-source alternatives for validating email addresses, detecting invalid and disposable addresses, checking MX/DNS records, performing SMTP verification, identifying catch-all domains, detecting role-based addresses, correcting typos, and improving email deliverability.
+> 🎯 A comprehensive, SEO-optimized curated directory of **Email Verification APIs**, commercial validation SaaS platforms, pricing models, free tier limits, and **self-hosted open-source alternatives**. Master email hygiene, improve sender reputation, prevent bounces, detect disposable domains, perform live SMTP handshakes, and build high-throughput email verification pipelines.
 
+### 🔍 What is Email Verification? 🛡️
 
-
-Email Verification APIs help businesses determine whether an email address is likely to be **deliverable, invalid, risky, disposable, temporary, role-based, catch-all, spam-trap or otherwise problematic** without sending an actual email.
-
-
-
-This repository focuses primarily on **open-source alternatives** that can be self-hosted and used to build an alternative to commercial email verification services.
-
-
+**Email Verification APIs** and libraries validate whether an email address is **deliverable, valid, invalid, risky, disposable, temporary, role-based, catch-all, or a spam trap**—without sending a message. Essential for:
+- 🚀 **SaaS Onboarding & Signups:** Block fake signups, bot attacks, and burner emails in real time.
+- 📈 **B2B Cold Outreach & Sales:** Keep bounce rates under 2% to protect Google Workspace & Outlook inbox sender reputation.
+- 🧹 **Bulk CRM Hygiene & List Cleaning:** Cleanse millions of leads across HubSpot, Salesforce, and Mailchimp.
+- 🏢 **Self-Hosted Infrastructure:** Build private, air-gapped, zero-cost email validation engines using Go, Rust, Python, and TypeScript.
 
 ---
 
@@ -67,6 +77,8 @@ This repository focuses primarily on **open-source alternatives** that can be se
 * [🤝 Contributing](#-contributing)
 
 * [⚠️ Disclaimer](#️-disclaimer)
+
+* [⭐ Star History](#-star-history)
 
 
 
