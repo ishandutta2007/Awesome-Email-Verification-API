@@ -82,53 +82,28 @@ Commercial Email Verification APIs provide managed validation infrastructure, DN
 
 
 
-| Platform                                                                                     | Company                | Primary Focus                     | Key Capabilities                                                                                      |
-
-| -------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------- |
-
-| [ZeroBounce](https://www.zerobounce.net/)                                                    | ZeroBounce             | Email Validation & Deliverability | Real-time/bulk validation, SMTP checks, spam-trap detection, disposable detection, catch-all, scoring |
-
-| [NeverBounce](https://neverbounce.com/)                                                      | ZoomInfo               | Email Verification                | Real-time API, bulk verification, list cleaning, disposable detection, validation                     |
-
-| [Bouncer](https://www.usebouncer.com/)                                                       | Bouncer                | Email Verification                | Real-time/bulk verification, deliverability, toxicity detection, disposable detection                 |
-
-| [DeBounce](https://debounce.io/)                                                             | DeBounce               | Email Validation                  | Bulk validation, API, SMTP checks, disposable detection, catch-all detection                          |
-
-| [Emailable](https://emailable.com/)                                                          | Emailable              | Email Verification                | Real-time API, bulk verification, syntax/DNS/SMTP checks, risk analysis                               |
-
-| [MailboxValidator](https://www.mailboxvalidator.com/)                                        | SparkPost              | Email Verification                | Syntax, MX, SMTP, disposable, free-provider and domain validation                                     |
-
-| [Verifalia](https://verifalia.com/)                                                          | Verifalia              | Email Validation                  | Real-time and bulk verification, syntax/DNS/SMTP, disposable and catch-all detection                  |
-
-| [Abstract Email Verification](https://www.abstractapi.com/email-verification-validation-api) | Abstract API           | Email Validation API              | Syntax, MX, SMTP, disposable, free-provider and quality checks                                        |
-
-| [QuickEmailVerification](https://quickemailverification.com/)                                | QuickEmailVerification | Email Verification                | API, bulk validation, SMTP verification, disposable detection                                         |
-
-| [Kickbox](https://kickbox.com/)                                                              | Kickbox                | Email Verification                | API, bulk verification, deliverability, risk analysis, integrations                                   |
-
-| [Clearout](https://clearout.io/)                                                             | Clearout               | Email Verification                | Real-time/bulk validation, catch-all, disposable, spam-trap and role detection                        |
-
-| [Hunter Email Verifier](https://hunter.io/email-verifier)                                    | Hunter                 | Email Verification                | Email verification API, syntax, domain, SMTP and deliverability checks                                |
-
-| [Proofy](https://proofy.io/)                                                                 | Proofy                 | Email Verification                | Bulk verification, API, SMTP, disposable and catch-all detection                                      |
-
-| [Mailboxlayer](https://mailboxlayer.com/)                                                    | apilayer               | Email Validation API              | Syntax, MX, SMTP, disposable, role and free-provider detection                                        |
-
-| [EmailListVerify](https://emaillistverify.com/)                                              | EmailListVerify        | Email Verification                | Bulk list cleaning, API, SMTP, disposable and catch-all detection                                     |
-
-| [MillionVerifier](https://www.millionverifier.com/)                                          | MillionVerifier        | Bulk Email Verification           | Bulk validation, API, SMTP and deliverability checks                                                  |
-
-| [BriteVerify](https://www.validity.com/products/briteverify/)                                | Validity               | Email Verification                | Real-time and bulk verification, data quality and deliverability                                      |
-
-| [Kickbox Verify](https://kickbox.com/email-verification/)                                    | Kickbox                | Email Verification                | Email validation API and list verification                                                            |
-
-| [Xverify](https://www.xverify.com/)                                                          | Xverify                | Contact Validation                | Email, phone and postal validation                                                                    |
-
-| [Captain Verify](https://captainverify.com/)                                                 | Captain Verify         | Email Verification                | Bulk and real-time verification                                                                       |
-
-| [EmailOversight](https://www.emailoversight.com/)                                            | EmailOversight         | Email Hygiene                     | Verification, suppression and list cleaning                                                           |
-
-| [BriteVerify](https://www.validity.com/products/briteverify/)                                | Validity               | Data Quality                      | Email verification and contact validation                                                             |
+| Platform | Company | Primary Focus | Pricing | Free Tier Limit | Key Capabilities |
+| -------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [ZeroBounce](https://www.zerobounce.net/) | ZeroBounce | Email Validation & Deliverability | Starts at $39 for 2,000 credits (Pay-as-you-go) or $99/mo (10,000 credits/mo) | 100 credits/month (Free forever, refreshes monthly) | Real-time/bulk validation, SMTP checks, spam-trap detection, disposable detection, catch-all, scoring |
+| [NeverBounce](https://neverbounce.com/) | ZoomInfo | Email Verification | Starts at $8 for 1,000 credits ($0.008/email Pay-as-you-go) or $49/mo (sync) | 10 free credits upon signup (One-time trial) + free list analysis | Real-time API, bulk verification, list cleaning, disposable detection, validation |
+| [Bouncer](https://usebouncer.com/) | Bouncer | Email Verification | Starts at $8 for 1,000 credits ($0.008/email Pay-as-you-go) or $24/mo | 100 free credits upon signup (One-time trial, no credit card required) | Real-time/bulk verification, deliverability, toxicity detection, disposable detection |
+| [DeBounce](https://debounce.io/) | DeBounce | Email Validation | Starts at $10 for 5,000 credits ($0.002/email Pay-as-you-go) | 100 free credits upon signup (One-time trial, no credit card required) | Bulk validation, API, SMTP checks, disposable detection, catch-all detection |
+| [Emailable](https://emailable.com/) | Emailable | Email Verification | Starts at $38 for 5,000 credits (Pay-as-you-go) or $32.30/mo | 250 free credits upon signup (One-time trial, credits never expire) | Real-time API, bulk verification, syntax/DNS/SMTP checks, risk analysis |
+| [MailboxValidator](https://www.mailboxvalidator.com/) | SparkPost | Email Verification | Starts at $19.95 for 1,000 credits (Bulk) or $9.95/mo for 1,000 queries/mo (API) | 300 queries/month (Free forever API plan) or 100 credits free trial | Syntax, MX, SMTP, disposable, free-provider and domain validation |
+| [Verifalia](https://verifalia.com/) | Verifalia | Email Validation | Starts at $9/mo for Starter (250 credits/day) or $7.90 for 1,000 credits | 25 credits/day (~750 credits/month, Free forever, resets daily) | Real-time and bulk verification, syntax/DNS/SMTP, disposable and catch-all detection |
+| [Abstract Email Verification](https://www.abstractapi.com/email-verification-validation-api) | Abstract API | Email Validation API | Starts at $19/mo (or $9/mo billed annually) for 10,000 requests/mo | 100 requests/month (Free forever, 3 req/sec rate limit) | Syntax, MX, SMTP, disposable, free-provider and quality checks |
+| [QuickEmailVerification](https://quickemailverification.com/) | QuickEmailVerification | Email Verification | Starts at $4.00 for 500 credits ($0.008/email Pay-as-you-go) | 100 credits/day (~3,000 credits/month, Free forever, resets daily) | API, bulk validation, SMTP verification, disposable detection |
+| [Kickbox](https://kickbox.com/) | Kickbox | Email Verification | Starts at $5 for 500 credits ($0.01/email) or $10 for 1,000 credits | 100 free credits upon signup (One-time trial) | API, bulk verification, deliverability, risk analysis, integrations |
+| [Clearout](https://clearout.io/) | Clearout | Email Verification | Starts at $21 for 3,000 credits (Pay-as-you-go) or $19.50/mo (3,000 credits/mo) | 100 free credits upon signup (One-time trial, credits never expire) | Real-time/bulk validation, catch-all, disposable, spam-trap and role detection |
+| [Hunter Email Verifier](https://hunter.io/email-verifier) | Hunter | Email Verification | Starts at $49/mo (or $34/mo billed annually) for 2,000 credits/mo | 50 credits/month (Free forever, up to 100 email verifications/mo) | Email verification API, syntax, domain, SMTP and deliverability checks |
+| [Proofy](https://proofy.io/) | Proofy | Email Verification | Starts at $5 for 5,000 credits (Starter package Pay-as-you-go) | 100 free credits upon registration (One-time trial) + free web checker | Bulk verification, API, SMTP, disposable and catch-all detection |
+| [Mailboxlayer](https://mailboxlayer.com/) | apilayer | Email Validation API | Starts at $14.99/mo for Basic (5,000 requests/month) | 100 requests/month (Free forever plan) | Syntax, MX, SMTP, disposable, role and free-provider detection |
+| [EmailListVerify](https://emaillistverify.com/) | EmailListVerify | Email Verification | Starts at $5 for 1,000 credits ($0.005/email Pay-as-you-go) or $139/mo | 100 free credits upon signup (One-time trial) | Bulk list cleaning, API, SMTP, disposable and catch-all detection |
+| [MillionVerifier](https://www.millionverifier.com/) | MillionVerifier | Bulk Email Verification | Starts at $39 for 10,000 credits (Pay-as-you-go; promo $4.90 for 2,000) | 100 free credits upon signup (up to 500 for business email, one-time trial) | Bulk validation, API, SMTP and deliverability checks |
+| [BriteVerify](https://www.validity.com/products/briteverify/) | Validity | Email Verification & Data Quality | Starts at $40 for 5,000 verifications ($0.008/verification Pay-as-you-go) | 1,000 free credits for 30-day trial (via DemandTools trial) or sales demo | Real-time and bulk verification, data quality and deliverability |
+| [Xverify](https://www.xverify.com/) | Xverify | Contact Validation | Starts at $5 for 500 verifications ($0.01/verification Pay-as-you-go) | 100 free credits upon signup (One-time trial) + 5 checks/day on website | Email, phone and postal validation |
+| [Captain Verify](https://captainverify.com/) | Captain Verify | Email Verification | Starts at €7 (~$7.60) for 1,000 credits (Pay-as-you-go) | 100 free credits upon signup (One-time trial) + 3 checks/day on website | Bulk and real-time verification |
+| [EmailOversight](https://www.emailoversight.com/) | EmailOversight | Email Hygiene | Starts at $70/mo for up to 10,000 verifications/month | 200 free credits upon signup (Trial plan, active until credits exhausted) | Verification, suppression and list cleaning |
 
 
 
