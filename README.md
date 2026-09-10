@@ -2400,10 +2400,12 @@ If you are interested in:
 
 consider giving this repository a ⭐ **Star** and contributing new projects.
 
-
-
 ---
 
+##  Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Email-Verification-API&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Email-Verification-API&type=date&legend=top-left)
+
+---
 
 **Last updated: September 2026**
