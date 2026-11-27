@@ -118,6 +118,7 @@ Commercial Email Verification APIs provide managed validation infrastructure, DN
 | [MillionVerifier](https://www.millionverifier.com/) | MillionVerifier | ~$440K – $1M ARR | Bulk Email Verification | Starts at $39 for 10,000 credits (Pay-as-you-go; promo $4.90 for 2,000) | 100 free credits upon signup (up to 500 for business email, one-time trial) | Bulk validation, API, SMTP and deliverability checks |
 | [Captain Verify](https://captainverify.com/) | Captain Verify | ~$400K – $800K ARR | Email Verification | Starts at €7 (~$7.60) for 1,000 credits (Pay-as-you-go) | 100 free credits upon signup (One-time trial) + 3 checks/day on website | Bulk and real-time verification |
 | [Proofy](https://proofy.io/) | Proofy | ~$300K – $600K ARR | Email Verification | Starts at $5 for 5,000 credits (Starter package Pay-as-you-go) | 100 free credits upon registration (One-time trial) + free web checker | Bulk verification, API, SMTP, disposable and catch-all detection |
+| [email-validation.org](https://email-validation.org/) | Email Validation LLC | Early-stage (launches December 2026) | Email Verification | [Starts at $22 for 10,000 credits](https://email-validation.org/pricing/) (one-time packs, no subscription) | Up to 500 free credits upon signup (100 with a free email provider; one-time, no credit card required) | Real-time and bulk validation (lists up to 1M rows), five statuses with a reason and recommended action, REST API (OpenAPI 3.1), webhooks, remote MCP server, SDKs |
 
 
 
